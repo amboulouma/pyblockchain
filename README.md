@@ -1,5 +1,19 @@
 # Python Blockchain
 
-A blockchain developped with Python
+A decentralized blockchain developped with Python, Flask,
+
+## Install requirements
+
+`pip install Flask==0.12.2 requests==2.18.4`
+
+## See what it does on the browser
+
+```
+[GET] http://127.0.0.1:2020/chain
+[GET] http://127.0.0.1:2020/mine
+[POST] http://127.0.0.1:2020/transactions/new
+[POST] http://127.0.0.1:2020/nodes/register
+[GET] http://127.0.0.1:2020/nodes/resolve
+```
 
 [Proudly built with the help of Daniel van Flymen](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
