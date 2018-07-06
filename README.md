@@ -1,6 +1,6 @@
 # Python Blockchain
 
-A decentralized blockchain developped with Python, Flask,
+A decentralized blockchain developped with Python and Flask.
 
 ## Install requirements
 
