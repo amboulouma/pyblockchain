@@ -15,5 +15,3 @@ A decentralized blockchain developped with Python and Flask.
 [POST] http://127.0.0.1:2020/nodes/register
 [GET] http://127.0.0.1:2020/nodes/resolve
 ```
-
-[Proudly built thanks to Daniel van Flymen](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
